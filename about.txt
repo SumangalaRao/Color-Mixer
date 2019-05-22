@@ -1,0 +1,11 @@
+ColorMixer:
+    It is blending of primary colors to get the a new color,there are n colors that can be produced by mixing the primary colors in appropriate proportions.It is difficult to remember the color codes or color name for each of them,this code here is a better way to
+find the perfect colors for your website or app.
+
+* There are three scales indicating the red,blue,green (all of which varies from 0-255)
+* Scrolling on these one can select the right amount of each color for generating the new color
+* The resulting color is shown in the window,and the appropriate values in trackbar
+
+TOOLS:
+    python 3
+    openCV
